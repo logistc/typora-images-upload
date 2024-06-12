@@ -6,7 +6,7 @@ COS Image-Bed, A Python Program for Images Uploading to COS Storage Bucket of Te
 
 **问题为什么存储图片、图床用腾讯云COS存储桶而不用Github仓库或其他云存储？**
 
-答：GitHub仓库最多500MB容量太小不建议，亲自试用过其他云存储服务和腾讯比性能（稳定性、速度等）方面逊色，此外腾讯云价格优惠20G标准存储+流量请求次数包用5年60元。
+答：GitHub仓库最多500MB容量太小不建议，亲自试用过其他云存储服务和腾讯比性能（稳定性、速度等）方面逊色，此外腾讯云价格优惠20G标准存储+流量请求次数包用5年60元，618、开学季、双11等活动价格更优惠，还可申请腾讯云校园计划免费使用。
 
 ## Step-1 Install the Tencent COS SDK
 
