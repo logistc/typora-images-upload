@@ -69,9 +69,10 @@ def main():
 
     for file_path in args.file:
         file_url = upload_to_cos(secret_id, secret_key, region, bucket, file_path)
+        # markdown_link = f"![{os.path.basename(file_path)}]({file_url})"
+        # Typora只需要图片上传后的URL并自动在Markdown中插入Markdown格式的图片引用![名称](图床链接)
+        # 不要返回Markdown格式的图片链接否则报错。
         print(file_url)
-        # Typora需要图片上传后的URL并自动在Markdown中插入Markdown格式的图片引用![名称](图床链接)
-        # 不要反回Markdown格式的图片链接否则报错。
 
 
 if __name__ == "__main__":
