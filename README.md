@@ -1,4 +1,4 @@
-# Typora-Images-Upload-to-Tencent-COS
+# Typora-Images-Upload-to-Tencent-COS（PicGo+腾讯云COS图床平替）
 
 COS Image-Bed, A Python Program for Images Uploading to COS Storage Bucket of Tencent Cloud by Typora Custom Command.
 
