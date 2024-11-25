@@ -85,4 +85,4 @@ If you encounter any issues while using this repo, please contact me.
 
 
 ## Stargazers over time
-[![Stargazers over time](https://starchart.cc/Charmve/Surface-Defect-Detection.svg?variant=adaptive)](https://starchart.cc/Charmve/Surface-Defect-Detection)
+[![Stargazers over time](https://starchart.cc/logistc/typora-images-upload.svg?variant=adaptive)](https://starchart.cc/logistc/typora-images-upload)
