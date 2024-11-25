@@ -82,3 +82,7 @@ If you need to use the uploadtocos.exe file on Windows, please refer to the Prog
 If you encounter any issues while using this repo, please contact me.
 
 **Good! That's All** 
+
+
+## Stargazers over time
+[![Stargazers over time](https://starchart.cc/Charmve/Surface-Defect-Detection.svg?variant=adaptive)](https://starchart.cc/Charmve/Surface-Defect-Detection)
