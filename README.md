@@ -84,5 +84,6 @@ If you encounter any issues while using this repo, please contact me.
 **Good! That's All** 
 
 
-## Stargazers over time
-[![Stargazers over time](https://starchart.cc/logistc/typora-images-upload.svg?variant=adaptive)](https://starchart.cc/logistc/typora-images-upload)
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=malhotra5/Manim-Tutorial,logistc/typora-images-upload&type=Date)](https://www.star-history.com/#malhotra5/Manim-Tutorial&logistc/typora-images-upload&Date)
