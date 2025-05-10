@@ -86,4 +86,4 @@ If you encounter any issues while using this repo, please contact me.
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=malhotra5/Manim-Tutorial,logistc/typora-images-upload&type=Date)](https://www.star-history.com/#malhotra5/Manim-Tutorial&logistc/typora-images-upload&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=logistc/typora-images-upload&type=Date)](https://www.star-history.com/#logistc/typora-images-upload&Date)
